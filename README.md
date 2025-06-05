@@ -15,12 +15,13 @@
 
 ##### Pattern: 'qwerty'
 
-`
  - KMP did not find the pattern in 0.00201250 seconds
  - Boyer-Moore did not find the pattern in 0.00146460 seconds
  - Rabin-Karp did not find the pattern in 0.00460880 seconds
-`
 
 
+##### Pattern: 'дослідження'
 
-
+ - KMP did not find the pattern in 0.00202940 seconds
+ - Boyer-Moore did not find the pattern in 0.00064460 seconds
+ - Rabin-Karp did not find the pattern in 0.00577700 seconds
