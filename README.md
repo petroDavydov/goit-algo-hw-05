@@ -16,9 +16,9 @@
 ##### Pattern: 'qwerty'
 
 `
-KMP did not find the pattern in 0.00201250 seconds
-Boyer-Moore did not find the pattern in 0.00146460 seconds
-Rabin-Karp did not find the pattern in 0.00460880 seconds
+ - KMP did not find the pattern in 0.00201250 seconds
+ - Boyer-Moore did not find the pattern in 0.00146460 seconds
+ - Rabin-Karp did not find the pattern in 0.00460880 seconds
 `
 
 
