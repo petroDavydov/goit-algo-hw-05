@@ -1,4 +1,4 @@
-# Кнут-Моріс-Пратт, Боер-Мур, Рабін-Карп алгоритмы поиска подстроки
+# Кнут-Моріс-Пратт, Боер-Мур, Рабін-Карп алгоритми пошуку підрядків
 import timeit
 import chardet  # use hint and github for read file with different encodings
 
